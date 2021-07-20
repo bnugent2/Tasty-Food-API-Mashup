@@ -1,0 +1,26 @@
+.RecipeDetails {
+    text-align: center;
+    background-image: linear-gradient(#F9F9F9, #FAFAFA);
+  }
+
+.ingredients{
+    list-style-type: none;
+}
+
+.banner{
+    background-size: cover;
+    height: 450px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.banner_text{
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    margin-left: 1rem;
+    padding: 0;
+    justify-content: flex-start;
+}

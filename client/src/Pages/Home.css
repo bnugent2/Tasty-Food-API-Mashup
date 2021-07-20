@@ -1,0 +1,50 @@
+
+
+.Home {
+    text-align: center;
+    background-image: linear-gradient(#F9F9F9, #FAFAFA);
+  }
+
+  .Home > .searchbar {
+      color: black;
+      font-size: 22px;
+  }
+
+  .searchbar{
+      height: 25rem;
+      justify-content: center;
+      background-image: url("../Images/Background.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      text-align: center;
+      color: whitesmoke;
+      padding: 3rem
+      
+  }
+  
+  .results{
+      margin-left: 3rem;
+      margin-top: 3rem;
+      justify-content: center;
+  }
+
+  .header{
+    height:30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+  }
+
+  .logo{
+      height: 8rem;
+      display: block;
+      background-color: white;
+      background-position: center;
+      margin: auto;
+  }
+
+  .search{
+      margin-top: 11rem;
+  }

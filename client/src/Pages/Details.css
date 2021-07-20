@@ -1,0 +1,17 @@
+.Details {
+    text-align: center;
+    height: 100%;
+    background-image: linear-gradient(#F9F9F9, #FAFAFA);
+    margin: 1rem;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
