@@ -1,4 +1,4 @@
-Tasty - Meal & Resturant API Mashup
+# Tasty - Meal & Resturant API Mashup
 
 Search for meals to get a fully detailed recipe as well as a shopping list powered by the Kroger's prduct API. 
 
